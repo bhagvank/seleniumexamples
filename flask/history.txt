@@ -1,0 +1,500 @@
+  100  ./mvnw spring-boot:run -pl eureka-client
+  101  ./mvnw spring-boot:run -pl eureka-client
+  102  mvn clean
+  103  ./mvnw spring-boot:run -pl eureka-client
+  104  pwd
+  105  ./mvnw spring-boot:run -pl eureka-client
+  106  ./mvnw spring-boot:run -pl eureka-client
+  107  cd desktop
+  108  cd javacodegeeks
+  109  cd code
+  110  ls
+  111  cd springrestdiscovery/
+  112  ls
+  113  cd complete
+  114  ./mvnw spring-boot:run -pl eureka-service
+  115  ./mvnw spring-boot:run -pl eureka-service
+  116  ./mvnw spring-boot:run -pl eureka-service
+  117  mvn clean
+  118  ./mvnw spring-boot:run -pl eureka-service
+  119  pwd
+  120  ./mvnw spring-boot:run -pl eureka-service
+  121  ./mvnw spring-boot:run -pl eureka-service
+  122  ls
+  123  mvn clean
+  124  mvn package
+  125  mvn clean
+  126  mvn package
+  127  mvn package
+  128  mvn clean
+  129  ls
+  130  mvn clean
+  131  cd ..
+  132  ls
+  133  cd ..
+  134  ls
+  135  cd desktop
+  136  cd javacodegeeks
+  137  ls
+  138  cd code
+  139  cd springrestdiscovery/
+  140  ls
+  141  mvn clean
+  142  cd desktop
+  143  cd dart
+  144  ls
+  145  vi lists.dart
+  146  dart lists.dart
+  147  vi lists.dart
+  148  cd desktop
+  149  cd AICoder
+  150  ls
+  151  cd executable
+  152  ls
+  153  cd Java
+  154  ls
+  155  cd input
+  156  ls
+  157  vi input.txt
+  158  java -jar AICoder.jar -i input.txt
+  159  ls
+  160  cd java
+  161  ls
+  162  ls
+  163  cd ..
+  164  ls
+  165  cd sql
+  166  ls
+  167  vi enterpriseDB.sql 
+  168  ls
+  169  cd ..
+  170  ls
+  171  cd ..
+  172  ls
+  173  cd WebHello/
+  174  ls
+  175  cd src
+  176  ls
+  177  cd org
+  178  ls
+  179  cd build
+  180  ls
+  181  cd hello
+  182  ls
+  183  cd ..
+  184  ls
+  185  cd ..
+  186  l
+  187  ls
+  188  cd ..
+  189  ls
+  190  cd ..
+  191  ls
+  192  cd ..
+  193  ls
+  194  cd input
+  195  ls
+  196  cd java
+  197  ls
+  198  vi Transaction.java
+  199  vi Vendor.java
+  200  vi VendorDAO.java
+  201  cd desktop
+  202  cd rust/
+  203  ls
+  204  mkdir borrowing
+  205  cd borrowing
+  206  vi borrowing.rst
+  207  rusc borrowing.rst 
+  208  rustc borrowing.rst
+  209  vi borrowing.rst
+  210  vi borrowing.rst
+  211  rustc borrowing.rst
+  212  ls
+  213  ./borrowing 
+  214  vi borrowing.rst
+  215  s
+  216  ls
+  217  mv borrowing.rst borrowing.rs
+  218  rustc borrowing.rs
+  219  ./borrowing 
+  220  ls
+  221  cd ..
+  222  ls
+  223  cd ..
+  224  ls
+  225  cd ..
+  226  ls
+  227  cd ..
+  228  ls
+  229  cd Volumes
+  230  ls
+  231  cd My\ Passport/
+  232  ls
+  233  cd Mac
+  234  ls
+  235  cd DeepLearning/
+  236  ls
+  237  cd sample
+  238  ls
+  239  cd ..
+  240  ls
+  241  python3 Capsule\ Network\ -\ SampleDataset.py 
+  242  python3 Capsule\ Network\ -\ SampleDataset.py 
+  243  cd
+  244  ls
+  245  cd desktop
+  246  ls
+  247  cd DeepLearning/
+  248  ls
+  249  python3 NetworkCNN.py
+  250  python3 NetworkCNN.py
+  251  cd downloads
+  252  ls
+  253  cd backup
+  254  ls
+  255  javac Person.java
+  256  javac Person.java
+  257  javac Person.java
+  258  javac Person.java
+  259  java Person
+  260  javac Person.java
+  261  java Person
+  262  javac Person.java
+  263  java Person
+  264  javac Person.java
+  265  java Person
+  266  javac Person.java
+  267  java Person
+  268  javac Person.java
+  269  java Person
+  270  cd
+  271  ls
+  272  cd downloads
+  273  ls
+  274  cd backup
+  275  ls
+  276  jupyter nbconvert --to script health-insurance-prediction-using-tensorflow.ipynb 
+  277  ls
+  278  cd handson-unsupervised-learning-master
+  279  ls
+  280  jupyter nbconvert --to script 04_anomaly_detection.ipynb 
+  281  cd
+  282  cd downloads
+  283  ls
+  284  cd car-damage-detect
+  285  cd car-damage-detector-1-master
+  286  ls
+  287  jupyter nbconvert --to script detect_a_car_with_ssd.ipynb 
+  288  jupyter nbconvert --to script detect_a_car_with_deeplab.ipynb 
+  289  cd
+  290  ls
+  291  cd downloads
+  292  cd backup
+  293  ls
+  294  cd automation-repo-master
+  295  ls
+  296  cd unsupervised/
+  297  ls
+  298  cd fraud-backendapp/
+  299  ls
+  300  jupyter nbconvert --to script fraud_detection.ipynb 
+  301  cd
+  302  cd downloads
+  303  ls
+  304  cd backup
+  305  ls
+  306  ls
+  307  cd Health-Insurance-Premium-Prediction-master
+  308  ls
+  309  jupyter nbconvert --to script HealthInsurancePremiumPrediction.ipynb 
+  310  ls
+  311  jupyter HealthInsurancePremiumPrediction.ipynb 
+  312  jupyter HealthInsurancePremiumPrediction.ipynb 
+  313  ls
+  314  jupyter HealthInsurancePremiumP
+  315  ls
+  316  cd ..
+  317  ls
+  318  cd Medical-Insurance-Prediction-master
+  319  ls
+  320  jupyter nbconvert --to script Predict\ Insurance.ipynb 
+  321  ls
+  322  cd desktop
+  323  cd dart
+  324  ls
+  325  vi maps.dart
+  326  dart maps.dart
+  327  vi maps.dart
+  328  dart maps.dart
+  329  vi maps.dart
+  330  cd desktop
+  331  cd apache-activemq-5.16.1/
+  332  ls
+  333  cd bin
+  334  ls
+  335  activemq start
+  336  ./activemq start
+  337  ./activemq console
+  338  ./activemq stop
+  339  ./activemq console
+  340  ./activemq console
+  341  ./activemq start
+  342  cd ..
+  343  cd ..
+  344  cd activemqwebconsole/
+  345  ls
+  346  java -Dwebconsole.type=properties -Dwebconsole.jms.url=tcp://localhost:61616 -Dwebconsole.jmx.url=service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi -cp jstl-1.2.jar:webapp-runner.jar webapp.runner.launch --port 8085 activemq-web-console-5.14.5.war 
+  347  cd ..
+  348  cd ..
+  349  cd downloads
+  350  cd webapp-runner-main
+  351  ls
+  352  mvn package
+  353  cd
+  354  cd desktop
+  355  cd activemqwebconsole/
+  356  ls
+  357  java -Dwebconsole.type=properties -Dwebconsole.jms.url=tcp://localhost:61616 -Dwebconsole.jmx.url=service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi -jar assembly/target/webapp-runner.jar webapp.runner.launch --port 8085 activemq-web-console-5.16.1.war 
+  358  java -Dwebconsole.type=properties -Dwebconsole.jms.url=tcp://localhost:61616 -Dwebconsole.jmx.url=service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi --port 8085 -jar assembly/target/webapp-runner.jar
+  359  java -Dwebconsole.type=properties -Dwebconsole.jms.url=tcp://localhost:61616 -Dwebconsole.jmx.url=service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi --port 8085 -jar assembly/target/webapp-runner.jar
+  360  java -Dwebconsole.type=properties -Dwebconsole.jms.url=tcp://localhost:61616 -Dwebconsole.jmx.url=service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi -jar assembly/target/webapp-runner.jar activemq-web-console-5.16.1.war 
+  361  cd 
+  362  cd desktop
+  363  cd apache-tomcat-9.0.11/
+  364  ls
+  365  cd ibn
+  366  cd bin
+  367  ./startup.sh
+  368  ls
+  369  ./shutdown.sh 
+  370  ./startup.sh
+  371  ./shutdown.sh 
+  372  ./startup.sh
+  373  cd Downloads/
+  374  ls
+  375  cd SpringBoot-JMS-HelloWorld
+  376  ls
+  377  mvn package
+  378  cd ..
+  379  cd spring-jms-master
+  380  ls
+  381  cd spring-jms-activemq-hello-world/
+  382  ls
+  383  mvn test
+  384  java -version
+  385  mvn test
+  386  mvn test
+  387  cd
+  388  cd desktop
+  389  cd javacodegeeks
+  390  cd code
+  391  ls
+  392  cd activemqexample/
+  393  ls
+  394  mvn test
+  395  mvn test
+  396  mvn test
+  397  mvn test
+  398  mvn test
+  399  mvn test
+  400  mvn test
+  401  mvn clean
+  402  mvn test
+  403  mvn test
+  404  mvn test
+  405  mvn test
+  406  mvn test
+  407  cd
+  408  ls
+  409  cd desktop
+  410  cd apache-activemq-5.16.1/
+  411  ls
+  412  cd bin
+  413  ./activemq status
+  414  ./activemq stop
+  415  cd ..
+  416  ls
+  417  cd ..
+  418  ls
+  419  cd javacodegeeks
+  420  ls
+  421  cd code
+  422  ls
+  423  cd activemqexample/
+  424  ls
+  425  mvn test
+  426  mvn test
+  427  cd desktop
+  428  cd active
+  429  cd apache-activemq-5.16.1/
+  430  ls
+  431  cd bin
+  432  ./activemq status
+  433  ./activemq start
+  434  ./activemq status
+  435  ./activemq stop
+  436  ./activemq start
+  437  ./activemq stop
+  438  ./activemq console
+  439  ./activemq start
+  440  cd
+  441  cd Downloads
+  442  cd apache-activemq-5.13.3
+  443  cd bin
+  444  ./activemq console
+  445  ./activemq start
+  446  ./activemq stop
+  447  ./activemq console
+  448  cd desktop
+  449  cd javacodegeeks
+  450  cd code
+  451  cd activemqexample/
+  452  ls
+  453  mvn test
+  454  pwd
+  455  mvn test
+  456  mvn test
+  457  mvn test
+  458  mvn test
+  459  mvn test
+  460  cd downloads
+  461  ls
+  462  cd apache-activemq-5.13.3
+  463  ls
+  464  cd bin
+  465  ./activemq start
+  466  ls
+  467  cd..
+  468  cd..
+  469  cd ..
+  470  ls
+  471  cd data
+  472  ls
+  473  cd kahadb
+  474  ls
+  475  tail db-1.log
+  476  cd ..
+  477  ls
+  478  cd ..
+  479  ls
+  480  cd bin
+  481  ls
+  482  ./activemq status
+  483  ./activemq stop
+  484  ./activemq status
+  485  ./activemq start
+  486  ./activemq stop
+  487  ./activemq start
+  488  ./activemq stop
+  489  ./activemq start
+  490  cd desktop
+  491  cd manning
+  492  cd CreatingVirtualAssistants-main
+  493  ls
+  494  cd code
+  495  ls
+  496  jupyter notebook classifier_demo_notebook/
+  497  ipconfig
+  498  ifconfig
+  499  cd desktop
+  500  cd javacodegeeks
+  501  cd code
+  502  cd flask/
+  503  ls
+  504  pip3 install virtualenv
+  505  ls
+  506  mkdir bak
+  507  mv * bak
+  508  ls
+  509  mkdir flask
+  510  cd flask
+  511  virtualenv flaskenv
+  512  ls
+  513  flaskenv/bin/activate
+  514  ./flaskenv/bin/activate
+  515  sudo flaskenv/bin/activate
+  516  sudo ./flaskenv/bin/activate
+  517  ls
+  518  pwd
+  519  ls
+  520  cd flaskenv
+  521  ls
+  522  cd bin
+  523  ls
+  524  activate
+  525  ./activate
+  526  cd ..
+  527  ls
+  528  cd ..
+  529  ls
+  530  cd ..
+  531  ls
+  532  cd flask
+  533  ls
+  534  ./flaskenv/bin/activate
+  535  source flaskenv/bin/activate
+  536  pip3 install flask
+  537  ls
+  538  cp ../bak/flaskexample.py .
+  539  ls
+  540  vi flaskexample.py 
+  541  python3 flaskexample.py 
+  542  pwd
+  543  cp ../bak/CustomerDat.py .
+  544  ls
+  545  cp ../bak/CustomerData.py .
+  546  python3 CustomerData.py
+  547  ls
+  548  python3 CustomerData.py
+  549  ls
+  550  rm customers.db
+  551  python3 CustomerData.py
+  552  cp ../bak/Customer.py .
+  553  python3 Customer.py
+  554  vi Customer.py
+  555  vi flaskexample.py 
+  556  ls
+  557  vi Customer.py
+  558  python3 Customer.py
+  559  cp ../bak/add.html .
+  560  cp ../bak/view.html .
+  561  mv add.html addCustomer.html
+  562  mv view.html viewCustomer.html
+  563  ls
+  564  python3 Customer.py
+  565  cp ../bak/index.html .
+  566  cp ../bak/index.html .
+  567  python3 Customer.py
+  568  ls
+  569  python3 Customer.py
+  570  ls
+  571  vi index.html
+  572  vi Customer.py
+  573  python3 Customer.py
+  574  ls
+  575  mv index.html home.html
+  576  vi Customer.py
+  577  python3 Customer.py
+  578  ls
+  579  vi Customer.py
+  580  ls
+  581  cp ../bak/success.html .
+  582  python3 Customer.py
+  583  ls
+  584  mkdir templates
+  585  mv *.html templates
+  586  python3 Customer.py
+  587  ls
+  588  cd templates
+  589  ls
+  590  vi viewCustomer.html 
+  591  ls
+  592  vi addCustomer.html 
+  593  python3 Customer.py
+  594  cd ..
+  595  python3 Customer.py
+  596  vi templates/viewCustomer.html 
+  597  ls
+  598  history
+  599  history > history.txt
